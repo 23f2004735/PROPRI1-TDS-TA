@@ -13,7 +13,7 @@ preprocess.py
 .vercel
 
 # Ignore the RAG knowledge DB
-knowledge_base.db
+# knowledge_base.db
 
 .vercelignore
 project-tds-virtual-ta-q1.webp
